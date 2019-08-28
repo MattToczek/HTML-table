@@ -52,3 +52,10 @@ tfoot td {
   font-style: italic;
   color: #8a97a0;
 }
+
+button {
+  display: block;
+  border-radius: .5em;
+  padding: 10px 10px;
+  margin: auto;
+}
