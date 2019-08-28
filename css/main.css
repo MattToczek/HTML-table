@@ -54,8 +54,14 @@ tfoot td {
 }
 
 button {
-  display: block;
+  display: inline-block;
   border-radius: .5em;
   padding: 10px 10px;
-  margin: auto;
+  margin-left: 7em;
+}
+
+input{
+  display: inline-block;
+  border-radius: .5em;
+  padding: 10px 10px;
 }
